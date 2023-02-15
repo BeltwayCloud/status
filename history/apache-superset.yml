@@ -1,7 +1,7 @@
 url: https://superset.beltway.cloud
-status: up
-code: 200
-responseTime: 493
-lastUpdated: 2023-02-14T23:11:51.662Z
+status: down
+code: 530
+responseTime: 70
+lastUpdated: 2023-02-15T06:35:16.973Z
 startTime: Mon Feb 13 2023 22:40:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-16": 55,
+      "2023-02-16": 56,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 79
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-16": 55,
+      "2023-02-16": 56,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 79
@@ -111,11 +111,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/print.beltway.buzz.ico",
     "slug": "octo-print",
     "status": "down",
-    "uptime": "15.28%",
-    "uptimeDay": "15.28%",
-    "uptimeWeek": "15.28%",
-    "uptimeMonth": "15.28%",
-    "uptimeYear": "15.28%",
+    "uptime": "7.82%",
+    "uptimeDay": "7.82%",
+    "uptimeWeek": "7.82%",
+    "uptimeMonth": "7.82%",
+    "uptimeYear": "7.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,

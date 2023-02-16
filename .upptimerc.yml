@@ -17,6 +17,11 @@ sites:
     headers:
       - "CF-Access-Client-Id: $CFID"
       - "CF-Access-Client-Secret: $CFSECRET"
+  - name: OctoPrint
+    url: https://print.beltway.buzz
+    headers:
+      - "CF-Access-Client-Id: $CFID"
+      - "CF-Access-Client-Secret: $CFSECRET"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

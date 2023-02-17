@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-16": 87,
+      "2023-02-17": 97,
+      "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 79
@@ -28,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 175,
-    "timeDay": 150,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "uptime": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 174,
+    "timeDay": 169,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2023-02-15": 10
     }
@@ -48,16 +49,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/superset.beltway.cloud.ico",
     "slug": "apache-superset",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 487,
-    "timeDay": 412,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "uptime": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 463,
+    "timeDay": 248,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2023-02-15": 10
     }
@@ -79,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-16": 87,
+      "2023-02-17": 97,
+      "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 79
@@ -91,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tech-scan-api",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 1115,
-    "timeDay": 877,
-    "timeWeek": 1115,
-    "timeMonth": 1115,
-    "timeYear": 1115,
+    "uptime": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 1101,
+    "timeDay": 987,
+    "timeWeek": 1101,
+    "timeMonth": 1101,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2023-02-15": 11
     }
@@ -111,18 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/print.beltway.buzz.ico",
     "slug": "octo-print",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-16": 31
+      "2023-02-17": 97,
+      "2023-02-16": 1385
     }
   }
 ]

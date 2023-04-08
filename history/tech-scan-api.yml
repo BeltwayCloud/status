@@ -1,7 +1,7 @@
 url: $TECHAPI
-status: up
-code: 200
-responseTime: 1728
-lastUpdated: 2023-04-07T23:10:05.232Z
+status: down
+code: 530
+responseTime: 59
+lastUpdated: 2023-04-08T08:07:30.102Z
 startTime: Mon Feb 13 2023 23:05:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
